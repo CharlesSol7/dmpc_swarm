@@ -1,0 +1,10 @@
+   cf1: 
+      enabled: true 
+      uri: radio://0/85/2M/E7E7E7E701
+      initial_position: [1.83, 1.22, 0]
+      type: cf21 
+   cf2: 
+      enabled: true 
+      uri: radio://0/85/2M/E7E7E7E702
+      initial_position: [0.61, 2.44, 0]
+      type: cf21 
